@@ -1,0 +1,7 @@
+scripts/_scratch/
+**/*.log
+**/*.tmp
+.DS_Store
+Thumbs.db
+node_modules/
+__pycache__/
